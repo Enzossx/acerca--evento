@@ -1,0 +1,32 @@
+.pepe{
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: fit-content;
+    font-size: 20px;
+    height: 50%;
+}
+#titulo{
+    background-color: red;
+    color: black;
+    font-size: 30px;
+    font-family: serif;
+}
+.pp{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+html{
+    align-items: center;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#lo{
+    touch-action: auto;
+    
+}

@@ -1,0 +1,24 @@
+body{
+    background-color: beige;
+}
+#locon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: fit-content;
+}
+#lolo{
+    font-size: 40px;
+    font-family: serif;
+    background-color: black;
+    color: white;
+}
+.oo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: fit-content;
+    width: auto;
+}
